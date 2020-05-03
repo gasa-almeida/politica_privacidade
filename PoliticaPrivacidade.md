@@ -1,6 +1,5 @@
 # politica_privacidade
-Politica de privacidade Apps
-MODELO DE POLÍTICA DE PRIVACIDADE PARA APLICATIVOS MÓVEIS
+POLÍTICA DE PRIVACIDADE PARA APLICATIVOS MÓVEIS
 Esta política de privacidade controla o uso do aplicativo de software Raspadinha Digital ("Aplicativo") para dispositivos móveis criados pelo  Dynamic System . O Aplicativo é  usado para eventos, é necessário registrar dados e e-mail, para que o usuário possa receber as notificações com maiores informações relacionadas ao seu conteúdo. 
 
  
